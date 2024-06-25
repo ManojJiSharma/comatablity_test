@@ -32,8 +32,7 @@ mod tests {
         const WS_URL: &str = "wss://rpc.shibuya.astar.network";
 
         // Private key of the sender's wallet (for demonstration purposes, this should be kept secret in a real application)
-        const PRIVATE_KEY: &str =
-            "0x28d9e44e255579afe7a0388cf74af1834eab8b2d14957de9ca0b40f1e2a6b2a5";
+        const PRIVATE_KEY: &str ="Private key";
 
         // Destination address to which the transaction will be sent
         const DEST_ADDRESS: &str = "0x26419F973ca19429c400a6e84d59Ed5e71570b83";
